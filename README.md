@@ -24,7 +24,7 @@ Installs the necessary tools for running the attack simulations.
 1. Run as ROOT
 2. Clone this repository:
    ```bash
-   git clone https://github.com/ch3332xr/fwattacksim.git
+   git clone https://github.com/RAVSECIO/fwattacksim.git
    cd fwattacksim
    chmod +x firewall_attack_simulation.sh
    sudo ./firewall_attack_simulation.sh
